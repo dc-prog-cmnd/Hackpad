@@ -4,10 +4,9 @@ This is my hackpad for me to use while I'm gaming. Its name is Hackpado. (I foun
 
 # Schematic & PCB
 The schematic and PCB were the first time I did anything like this, so I had A LOT of trouble. But I managed to get through it. 
-<img width="957" height="797" alt="image" src="https://github.com/user-attachments/assets/bcd5a721-cb8a-4600-8714-eeba438dd208" />
+<img width="996" height="827" alt="new schematic" src="https://github.com/user-attachments/assets/c4ced77e-8450-4cb0-b367-4409b0d2aad8" />
 Honestly, the PCB was pretty nice to design. The wiring was oddly satisfying to do. 
-<img width="895" height="852" alt="image" src="https://github.com/user-attachments/assets/c2024ced-dc60-4f14-8df9-b54af6915677" />
-
+<img width="1116" height="863" alt="new pcb" src="https://github.com/user-attachments/assets/8fa90345-f111-40af-8c80-4fa58189c54d" />
 
 
 # Pieces
