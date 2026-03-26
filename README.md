@@ -1,6 +1,7 @@
 # Hackpad
-This is my hackpad for me to use while I'm gaming. Its name is Hackpado. (I found these cool keycaps on GrabCAD, but I will probably have to replace them on the actual build.)
-<img width="1170" height="741" alt="image" src="https://github.com/user-attachments/assets/7b6cc7a2-d614-4eb8-89ce-dbd4a92ba149" />
+This is my hackpad for me to use while I'm gaming. Its name is Hackpado. 
+<img width="1092" height="738" alt="image" src="https://github.com/user-attachments/assets/420f8ed1-3426-4cbb-a74f-9fd941e92c3f" />
+
 
 # Schematic & PCB
 The schematic and PCB were the first time I did anything like this, so I had A LOT of trouble. But I managed to get through it. 
@@ -11,12 +12,13 @@ Honestly, the PCB was pretty nice to design. The wiring was oddly satisfying to 
 
 # Pieces
 Hackpado comes in 2 pieces. The top and the bottom. 
-<img width="1216" height="685" alt="image" src="https://github.com/user-attachments/assets/020a2079-88f2-439f-b71d-f4eb8965ce82" />
+<img width="1061" height="677" alt="image" src="https://github.com/user-attachments/assets/ebc0dcb3-a096-4403-ac08-85c6b6e4d2fa" />
 <img width="1249" height="731" alt="bottom" src="https://github.com/user-attachments/assets/9836ed75-8238-4505-9420-94983cec1ac5" />
 
 # Assembly
 The assembly is pretty easy since I only have 2 pieces to connect. :D
-<img width="1071" height="675" alt="image" src="https://github.com/user-attachments/assets/49a9221c-3e7c-431c-b06b-45dfd38f3d1b" />
+<img width="1155" height="732" alt="image" src="https://github.com/user-attachments/assets/1eef59c7-fc6d-4c56-9ac7-eed1f246e466" />
+
 
 # BOM
 5x white blank DSA keycaps
